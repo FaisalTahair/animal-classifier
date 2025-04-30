@@ -6,10 +6,11 @@ A deep learning-based model for classifying animals into different categories us
 - `animal-classifier.ipynb`: The Jupyter Notebook containing the code for model training, evaluation, and predictions.
 - `README.md`: Documentation for the project.
 
-- 1. Clone the repository:
+1. Clone the repository:
    ```bash
-   !git clone https://github.com/FaisalTahair/animal-classifier.git
-%cd animal-classifier/
+   git clone https://github.com/your-username/animal-classifier.git
+   cd animal-classifier
+
 
 Ensure you have the following dependencies installed:
 
