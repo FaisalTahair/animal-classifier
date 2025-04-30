@@ -8,7 +8,7 @@ A deep learning-based model for classifying animals into different categories us
 
 - 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animal-classifier.git
+   git clone https://github.com/FaisalTahair/animal-classifier.git
    cd animal-classifier
 
 Ensure you have the following dependencies installed:
