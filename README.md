@@ -1,3 +1,6 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FaisalTahair/animal-classifier/blob/main/animal-classifier.ipynb)
+
+
 # animal-classifier
 A deep learning-based model for classifying animals into different categories using MobileNetV2. This project includes the trained model, a label encoder, and the steps to use the system for predictions.
 ## Repository Contents
